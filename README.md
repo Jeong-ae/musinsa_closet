@@ -32,4 +32,4 @@
 - Firebase에서 Python 코드에 전달
 - Python 결과를 Firebase에 전달하고 웹에 연결 
 <br>
-<img src="/img/web1.png">
+<img src="./img/web1.PNG">
